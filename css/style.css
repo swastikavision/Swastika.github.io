@@ -72,7 +72,7 @@ body {
   font-family: "Outfit", sans-serif;
   font-size: 16px;
   font-weight: 300;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
   line-height: 150%;
   -ms-scroll-chaining: none;
       overscroll-behavior: none;
@@ -403,7 +403,7 @@ a {
 }
 
 .mil-dark-soft {
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 
 .mil-marker {
@@ -697,28 +697,28 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 input::-moz-placeholder, textarea::-moz-placeholder {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 input::-ms-input-placeholder, textarea::-ms-input-placeholder {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 input::placeholder,
 textarea::placeholder {
@@ -726,7 +726,7 @@ textarea::placeholder {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.5);
+  color: #283E2C;
 }
 
 textarea {
